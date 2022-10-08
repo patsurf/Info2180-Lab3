@@ -1,7 +1,6 @@
 window.onload = event =>{
     gamePlay();
 }
-
 function gamePlay(){
     let board = document.getElementById('board');
     let squares = board.getElementsByTagName('div');
